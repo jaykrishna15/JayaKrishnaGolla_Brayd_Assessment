@@ -344,5 +344,3 @@ __pycache__/
 .env
 ```
 
-Commit changes incrementally with meaningful messages rather than
-combining the entire implementation into one final commit.
