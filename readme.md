@@ -49,7 +49,7 @@ committed to version control.
 
 ## Requirements
 
--   Python 3.10 or newer
+-   Python 3.11.9
 -   `pytest` for automated tests
 
 SQLite is included with Python, so a separate database server is not
