@@ -6,8 +6,7 @@ monthly payroll, generates employee payslips, protects finalized payroll
 periods, and processes late-arriving attendance events as arrears.
 
 The application is intentionally kept simple: Python standard library,
-SQLite, SQL, and `pytest`. No web framework or Streamlit interface is
-required by the assessment.
+SQLite, SQL, and `pytest`.
 
 ## Features
 
